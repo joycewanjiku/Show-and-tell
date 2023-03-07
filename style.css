@@ -1,0 +1,17 @@
+.box1{
+    padding-left:350px ;
+    color: white;
+    gap: 500px;
+    text-align: center;
+    margin-top: 50px;
+    color: blueviolet;
+    font-size: medium;
+}
+.new{
+    display: flex;
+}
+img{
+    height: 400px;
+    width: 420px;
+    
+}
